@@ -1,5 +1,5 @@
 
-You can see the performance of the site at the link: my-react-app-22.firebaseapp.com
+You can see the performance of the site at the link: https://my-react-app-22.firebaseapp.com
 
 # Getting Started with Create React App
 
