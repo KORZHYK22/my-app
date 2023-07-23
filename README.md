@@ -1,3 +1,6 @@
+
+You can see the performance of the site at the link: my-react-app-22.firebaseapp.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
