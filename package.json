@@ -10,7 +10,7 @@
 		"react-dom": "^18.2.0",
 		"react-scripts": "5.0.1",
 		"web-vitals": "^2.1.4",
-		"homepage": "https://myusername.github.io/my-app"
+		"homepage": "https://korzhyk22.github.io/my-app"
 	},
 	"scripts": {
 		"predeploy": "npm run build",
